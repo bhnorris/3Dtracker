@@ -4,7 +4,7 @@
 Group members
 * Ben - Data I/0
 * Robert - Data analysis
-* Kelsi - Algorithum
-* Kyle - Visualization
+* Kyle - Algorithum
+* Kelsi - Visualization
 * Royce  - Team Lead, Debugger
  
